@@ -17,12 +17,12 @@ A análise de distribuição cruzada provou que existe uma relação inversament
 
 ![Boxplot Qualidade do Sono](boxplot_horizontal.png)
 
-### 2. O Custo Oculto no Stresse e Saúde Mental
+### 2. O Custo Oculto no Estresse e Saúde Mental
 Ao cruzar o tempo de ecrã com indicadores psicológicos, os dados formam uma tendência incontestável:
-* **Stresse Percebido:** Quanto maior o uso diário, mais a concentração de dados sobe no eixo de stresse.
+* **Estresse Percebido:** Quanto maior o uso diário, mais a concentração de dados sobe no eixo de Estresse.
 * **Saúde Mental:** O índice colapsa de forma agressiva à medida que a dependência das plataformas aumenta, evidenciado pela inclinação negativa da dispersão.
 
-![Painel de Dispersão Saúde Mental e Stresse](scatter_duplo.png)
+![Painel de Dispersão Saúde Mental e Estresse](scatter_duplo.png)
 
 ## 🚀 Como Executar o Projeto
 
